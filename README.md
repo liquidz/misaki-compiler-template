@@ -1,13 +1,17 @@
 # misaki-compiler
 
-A Leiningen template for FIXME.
+Template for misaki new compiler.
 
 ## Usage
 
-FIXME
+```sh
+$ lein new misaki-compiler demo
+$ cd demo
+$ lein run test
+```
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 [@uochan](http://twitter.com/uochan)
 
 Distributed under the Eclipse Public License, the same as Clojure.
