@@ -1,6 +1,6 @@
 (ns misaki.compiler.{{name}}.core
   (:require
-    [misaki.server  :as srv]))
+    [misaki.server :as srv]))
 
 (defn -extension
   "Set watch target extension as keyword. (REQUIRED)"
