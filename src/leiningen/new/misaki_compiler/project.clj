@@ -5,7 +5,7 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
   :dependencies [[org.clojure/clojure "1.4.0"]
-                 [misaki "0.2.3-beta"]]
+                 [misaki "0.2.4-beta"]]
 
   :main misaki.compiler.{{name}}.core)
 
