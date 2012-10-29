@@ -1,4 +1,4 @@
-(defproject misaki-compiler/lein-template "0.0.3"
+(defproject misaki-compiler/lein-template "0.0.4"
   :description "Template for new misaki compiler."
   :url "http://liquidz.github.com/misaki/toc/07-develop-compiler.html"
   :license {:name "Eclipse Public License"
