@@ -6,7 +6,7 @@
 
 ; set base directory which include _config.clj
 ; default testing base directory is "test"
-(set-base-dir! "test/")
+(set-base-dir! "sample/")
 
 
 ; define test wrapping config data as *config*

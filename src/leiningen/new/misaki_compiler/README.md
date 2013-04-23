@@ -10,8 +10,12 @@ FIXME
 
 FIXME
 
+```sh
+$ lein run sample
+```
+
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2013 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.
